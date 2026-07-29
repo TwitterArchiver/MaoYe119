@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-07-29T19:38:04",
+  "last_updated": "2026-07-29T19:38:29",
   "html": {
     "https://web.archive.org/web/20260613061803if_/https://twitter.com/MaoYe119/status/2065680077854294434": {
       "status": "done",
@@ -869,9 +869,9 @@
       "referenced_by": [
         "20260616060837_twitter_com_MaoYe119_status_2066764865445003482.json"
       ],
-      "last_updated": "2026-07-29T19:32:12",
+      "last_updated": "2026-07-29T19:38:27",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260616060837/https://video.twimg.com/amplify_video/2066743063167537152/vid/avc1/1280x720/pczAuJx6qY7p5QUG.mp4",
-      "miss_count": 1
+      "miss_count": 2
     },
     "https://video.twimg.com/amplify_video/2066842652222672896/vid/avc1/720x1280/fIKtAMll54jPuEZe.mp4": {
       "status": "done",
@@ -885,9 +885,9 @@
       "referenced_by": [
         "20260620093843_twitter_com_MaoYe119_status_2068267289661817300.json"
       ],
-      "last_updated": "2026-07-29T19:36:06",
+      "last_updated": "2026-07-29T19:38:29",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260620093843/https://video.twimg.com/amplify_video/2068246408977928192/vid/avc1/1280x720/Ye4xNDY8v-CYQSIW.mp4",
-      "miss_count": 2
+      "miss_count": 3
     }
   },
   "avatars": {
