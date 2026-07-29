@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065617687972372480"
+      ]
+    },
+    "author_id": "2065335080265093121",
+    "conversation_id": "2065617711456247952",
+    "created_at": "2026-06-13T02:10:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T03:10:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065617711456247952"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/QiNknVBVaB",
+          "end": 31,
+          "expanded_url": "https://x.com/MaoYe119/status/2065617711456247952/photo/1",
+          "media_key": "3_2065617687972372480",
+          "start": 8,
+          "url": "https://t.co/QiNknVBVaB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065617711456247952",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "可爱捏可爱捏～ https://t.co/QiNknVBVaB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1312,
+        "media_key": "3_2065617687972372480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKqMV9VbYAAxdx_.jpg",
+        "width": 1199
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065617687972372480"
+          ]
+        },
+        "author_id": "2065335080265093121",
+        "conversation_id": "2065617711456247952",
+        "created_at": "2026-06-13T02:10:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T03:10:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065617711456247952"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QiNknVBVaB",
+              "end": 31,
+              "expanded_url": "https://x.com/MaoYe119/status/2065617711456247952/photo/1",
+              "media_key": "3_2065617687972372480",
+              "start": 8,
+              "url": "https://t.co/QiNknVBVaB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065617711456247952",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "可爱捏可爱捏～ https://t.co/QiNknVBVaB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-12T07:29:46.000Z",
+        "description": "我叫小冶，第二人格",
+        "id": "2065335080265093121",
+        "name": "猫冶.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065336327797866496/v59O1zZz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 15,
+          "like_count": 15,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 6
+        },
+        "username": "MaoYe119",
+        "verified": false
+      }
+    ]
+  }
+}

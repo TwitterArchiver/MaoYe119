@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2065335080265093121",
+    "conversation_id": "2066675335354315131",
+    "created_at": "2026-06-17T09:56:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T10:56:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067184715736715391"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2045929868031086592",
+          "start": 0,
+          "username": "IcyRoll777"
+        },
+        {
+          "end": 26,
+          "id": "2057743680061255680",
+          "start": 12,
+          "username": "Koroshiiiiiii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067184715736715391",
+    "in_reply_to_user_id": "2045929868031086592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067181142214869025",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IcyRoll777 @Koroshiiiiiii 166cm😭我的评论被ban了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2065335080265093121",
+        "conversation_id": "2066675335354315131",
+        "created_at": "2026-06-17T09:56:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T10:56:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067184715736715391"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2045929868031086592",
+              "start": 0,
+              "username": "IcyRoll777"
+            },
+            {
+              "end": 26,
+              "id": "2057743680061255680",
+              "start": 12,
+              "username": "Koroshiiiiiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067184715736715391",
+        "in_reply_to_user_id": "2045929868031086592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067181142214869025",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IcyRoll777 @Koroshiiiiiii 166cm😭我的评论被ban了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045929868031086592",
+        "conversation_id": "2066675335354315131",
+        "created_at": "2026-06-17T09:42:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T10:42:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067181142214869025"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2057743680061255680",
+              "start": 0,
+              "username": "Koroshiiiiiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067181142214869025",
+        "in_reply_to_user_id": "2057743680061255680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066675335354315131",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Koroshiiiiiii 妈妈多高啊感觉照片看起来很匀称！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-12T07:29:46.000Z",
+        "description": "@Koroshiiiiiii哑巴\n我叫小冶，第二人格",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 0,
+                "username": "Koroshiiiiiii"
+              }
+            ]
+          }
+        },
+        "id": "2065335080265093121",
+        "name": "猫冶.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065336327797866496/v59O1zZz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 46,
+          "like_count": 148,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 44
+        },
+        "url": "",
+        "username": "MaoYe119",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-19T18:23:44.000Z",
+        "description": "冰儿二号机，\n本体传送门@MosaicIceRoll，\n\n被贱人陷害的时候会来这里( ･᷄ὢ･᷅ )",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "MosaicIceRoll"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ice.mocaic",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ice.mocaic",
+                "start": 0,
+                "url": "https://t.co/FTD3LM1Y2T"
+              }
+            ]
+          }
+        },
+        "id": "2045929868031086592",
+        "location": "核子熔炉",
+        "name": "∠( :3 」∠)＿Paradise",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060287222331707393/lqaU7YsU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 114,
+          "like_count": 238,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 426
+        },
+        "url": "https://t.co/FTD3LM1Y2T",
+        "username": "IcyRoll777",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-22T08:44:46.000Z",
+        "description": "嘴替@MaoYe119\n可以叫小杀🦋同名\n退役Oder/不🔪🩸/致幻/日本語🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/药理学习中/随缘互fo/不出售任何物质，私信匿名提问🉑\n关于个人trip报告👇🏻\nhttps://t.co/41xEgoJkTr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "MaoYe119"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kdocs.cn/l/cg7KXvKW0Nb1…",
+                "end": 124,
+                "expanded_url": "https://www.kdocs.cn/l/cg7KXvKW0Nb1?f=301",
+                "start": 101,
+                "url": "https://t.co/41xEgoJkTr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/Q7AWi1TcyC"
+              }
+            ]
+          }
+        },
+        "id": "2057743680061255680",
+        "location": "✟升天✟",
+        "name": "山本殺し✰",
+        "pinned_tweet_id": "2057747022443389150",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057744621166628864/0Fz6K0Ld_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 437,
+          "following_count": 325,
+          "like_count": 1635,
+          "listed_count": 0,
+          "media_count": 120,
+          "tweet_count": 812
+        },
+        "url": "https://t.co/Q7AWi1TcyC",
+        "username": "Koroshiiiiiii",
+        "verified": false
+      }
+    ]
+  }
+}

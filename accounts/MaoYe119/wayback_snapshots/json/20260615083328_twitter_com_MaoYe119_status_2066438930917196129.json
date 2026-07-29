@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2065335080265093121",
+    "conversation_id": "2066438930917196129",
+    "created_at": "2026-06-15T08:33:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T09:33:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066438930917196129"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/koroshiiiiiii/…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/koroshiiiiiii/status/2066438760825577713",
+          "start": 11,
+          "url": "https://t.co/0r1tltwq19"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066438930917196129",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066438760825577713",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我会一直爱色胺... https://t.co/0r1tltwq19"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2065335080265093121",
+        "conversation_id": "2066438930917196129",
+        "created_at": "2026-06-15T08:33:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T09:33:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066438930917196129"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/koroshiiiiiii/…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/koroshiiiiiii/status/2066438760825577713",
+              "start": 11,
+              "url": "https://t.co/0r1tltwq19"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066438930917196129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066438760825577713",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我会一直爱色胺... https://t.co/0r1tltwq19"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057743680061255680",
+        "conversation_id": "2066438760825577713",
+        "created_at": "2026-06-15T08:32:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T09:32:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066438760825577713"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066438760825577713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "后来，我在思考，色胺都差不多的效果，为什么会有那么多种类，是幻觉不一样吗，到底哪里有细微的差别，是时长？还是图案？还是体感？还是饱和度？还是色彩？我很喜欢色胺，每次都重新让我爱上这个充满丰富色彩的世界，起码，它是我生命中的一小撮颜料吧，涂在了心脏的部分，但最受伤的也是心脏..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-12T07:29:46.000Z",
+        "description": "我叫小冶，第二人格",
+        "id": "2065335080265093121",
+        "name": "猫冶.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065336327797866496/v59O1zZz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 25,
+          "like_count": 57,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 21
+        },
+        "username": "MaoYe119",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-22T08:44:46.000Z",
+        "description": "可以叫小杀🦋同名\n退役Oder/不🔪🩸/致幻/日本語🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/二三涉/药理学习中/随缘互fo/但请不要问我物质渠道，也不出售任何物质，仅私信提问\n关于个人trip报告👇🏻\nhttps://t.co/41xEgoJkTr",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "kdocs.cn/l/cg7KXvKW0Nb1…",
+                "end": 126,
+                "expanded_url": "https://www.kdocs.cn/l/cg7KXvKW0Nb1?f=301",
+                "start": 103,
+                "url": "https://t.co/41xEgoJkTr"
+              }
+            ]
+          }
+        },
+        "id": "2057743680061255680",
+        "location": "✟升天✟",
+        "name": "山本殺し✰",
+        "pinned_tweet_id": "2057747022443389150",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057744621166628864/0Fz6K0Ld_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 435,
+          "following_count": 316,
+          "like_count": 1538,
+          "listed_count": 0,
+          "media_count": 116,
+          "tweet_count": 835
+        },
+        "username": "Koroshiiiiiii",
+        "verified": false
+      }
+    ]
+  }
+}

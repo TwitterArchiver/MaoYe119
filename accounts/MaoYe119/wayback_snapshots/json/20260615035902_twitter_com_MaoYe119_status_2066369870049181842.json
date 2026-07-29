@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066363007660371968"
+      ],
+      "media_source_tweet_id": [
+        "2066363014274851065"
+      ]
+    },
+    "author_id": "2065335080265093121",
+    "conversation_id": "2066369870049181842",
+    "created_at": "2026-06-15T03:59:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T04:59:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066369870049181842"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1384831606276476930",
+          "start": 3,
+          "username": "Xxx_kkkl"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mwyINKtEkW",
+          "end": 46,
+          "expanded_url": "https://x.com/Xxx_kkkl/status/2066363014274851065/photo/1",
+          "media_key": "3_2066363007660371968",
+          "start": 23,
+          "url": "https://t.co/mwyINKtEkW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066369870049181842",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066363014274851065",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Xxx_kkkl: 晚安已成下位…. https://t.co/mwyINKtEkW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1471,
+        "media_key": "3_2066363007660371968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK0yNRiasAAjJvv.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066363007660371968"
+          ],
+          "media_source_tweet_id": [
+            "2066363014274851065"
+          ]
+        },
+        "author_id": "2065335080265093121",
+        "conversation_id": "2066369870049181842",
+        "created_at": "2026-06-15T03:59:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T04:59:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066369870049181842"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1384831606276476930",
+              "start": 3,
+              "username": "Xxx_kkkl"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mwyINKtEkW",
+              "end": 46,
+              "expanded_url": "https://x.com/Xxx_kkkl/status/2066363014274851065/photo/1",
+              "media_key": "3_2066363007660371968",
+              "start": 23,
+              "url": "https://t.co/mwyINKtEkW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066369870049181842",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066363014274851065",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Xxx_kkkl: 晚安已成下位…. https://t.co/mwyINKtEkW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066363007660371968"
+          ]
+        },
+        "author_id": "1384831606276476930",
+        "conversation_id": "2066363014274851065",
+        "created_at": "2026-06-15T03:31:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T04:31:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066363014274851065"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mwyINKtEkW",
+              "end": 32,
+              "expanded_url": "https://x.com/Xxx_kkkl/status/2066363014274851065/photo/1",
+              "media_key": "3_2066363007660371968",
+              "start": 9,
+              "url": "https://t.co/mwyINKtEkW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066363014274851065",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 93,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "晚安已成下位…. https://t.co/mwyINKtEkW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-12T07:29:46.000Z",
+        "description": "我叫小冶，第二人格",
+        "id": "2065335080265093121",
+        "name": "猫冶.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065336327797866496/v59O1zZz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 23,
+          "like_count": 53,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 16
+        },
+        "username": "MaoYe119",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-21T11:29:28.000Z",
+        "description": "活人死的",
+        "id": "1384831606276476930",
+        "name": "Jahseh（4.0）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065751551243886592/8KJyvMdm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 58,
+          "like_count": 53,
+          "listed_count": 3,
+          "media_count": 3,
+          "tweet_count": 63
+        },
+        "username": "Xxx_kkkl",
+        "verified": false
+      }
+    ]
+  }
+}

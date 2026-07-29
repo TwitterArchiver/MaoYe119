@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065362636641034240"
+      ],
+      "media_source_tweet_id": [
+        "2065362643356160371"
+      ]
+    },
+    "author_id": "2065335080265093121",
+    "conversation_id": "2065667191819943977",
+    "created_at": "2026-06-13T05:26:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T06:26:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065667191819943977"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1958524394571202560",
+          "start": 3,
+          "username": "xxar_3xx"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0ZQ4hz77Sy",
+          "end": 79,
+          "expanded_url": "https://x.com/xxar_3xx/status/2065362643356160371/photo/1",
+          "media_key": "3_2065362636641034240",
+          "start": 56,
+          "url": "https://t.co/0ZQ4hz77Sy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065667191819943977",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065362643356160371",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xxar_3xx: イモリ？のぴあす買ったのーჱ̒ᴗ ̫ ᴗ ̳♡\nロブ3個目のところ分かりづらいけど https://t.co/0ZQ4hz77Sy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1471,
+        "media_key": "3_2065362636641034240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKmkYBFaYAAe_5C.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065362636641034240"
+          ],
+          "media_source_tweet_id": [
+            "2065362643356160371"
+          ]
+        },
+        "author_id": "2065335080265093121",
+        "conversation_id": "2065667191819943977",
+        "created_at": "2026-06-13T05:26:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T06:26:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065667191819943977"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1958524394571202560",
+              "start": 3,
+              "username": "xxar_3xx"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0ZQ4hz77Sy",
+              "end": 79,
+              "expanded_url": "https://x.com/xxar_3xx/status/2065362643356160371/photo/1",
+              "media_key": "3_2065362636641034240",
+              "start": 56,
+              "url": "https://t.co/0ZQ4hz77Sy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065667191819943977",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065362643356160371",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xxar_3xx: イモリ？のぴあす買ったのーჱ̒ᴗ ̫ ᴗ ̳♡\nロブ3個目のところ分かりづらいけど https://t.co/0ZQ4hz77Sy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065362636641034240"
+          ]
+        },
+        "author_id": "1958524394571202560",
+        "conversation_id": "2065362643356160371",
+        "created_at": "2026-06-12T09:16:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T10:16:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065362643356160371"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0ZQ4hz77Sy",
+              "end": 65,
+              "expanded_url": "https://x.com/xxar_3xx/status/2065362643356160371/photo/1",
+              "media_key": "3_2065362636641034240",
+              "start": 42,
+              "url": "https://t.co/0ZQ4hz77Sy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065362643356160371",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 5366,
+          "like_count": 445,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "イモリ？のぴあす買ったのーჱ̒ᴗ ̫ ᴗ ̳♡\nロブ3個目のところ分かりづらいけど https://t.co/0ZQ4hz77Sy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-12T07:29:46.000Z",
+        "description": "我叫小冶，第二人格",
+        "id": "2065335080265093121",
+        "name": "猫冶.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065336327797866496/v59O1zZz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 16,
+          "like_count": 23,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 8
+        },
+        "username": "MaoYe119",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-21T13:40:02.000Z",
+        "description": "マモギャ🩸麺被り〇\nぴあす49個/スプタンしてます🐍\n✡️@o9x_xO ♱ @qlxnul",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 29,
+                "username": "o9x_xO"
+              },
+              {
+                "end": 46,
+                "start": 39,
+                "username": "qlxnul"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@xxar_3xx0",
+                "end": 23,
+                "expanded_url": "http://www.tiktok.com/@xxar_3xx0",
+                "start": 0,
+                "url": "https://t.co/2omk6iOoqM"
+              }
+            ]
+          }
+        },
+        "id": "1958524394571202560",
+        "location": "壊れた手首に最後の口付けを",
+        "name": "毒殺",
+        "pinned_tweet_id": "2025791245826810226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053679694147661824/7YPYAmKc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 437,
+          "following_count": 288,
+          "like_count": 8415,
+          "listed_count": 3,
+          "media_count": 109,
+          "tweet_count": 1426
+        },
+        "url": "https://t.co/2omk6iOoqM",
+        "username": "xxar_3xx",
+        "verified": false
+      }
+    ]
+  }
+}

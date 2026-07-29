@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065982063577321472"
+      ]
+    },
+    "author_id": "2065335080265093121",
+    "conversation_id": "2065982085467427107",
+    "created_at": "2026-06-14T02:18:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T03:18:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065982085467427107"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/oSBQ4HPpyU",
+          "end": 31,
+          "expanded_url": "https://x.com/MaoYe119/status/2065982085467427107/photo/1",
+          "media_key": "3_2065982063577321472",
+          "start": 8,
+          "url": "https://t.co/oSBQ4HPpyU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065982085467427107",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "摩西摩西... https://t.co/oSBQ4HPpyU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2316,
+        "media_key": "3_2065982063577321472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKvXvaPa0AACm8A.jpg",
+        "width": 2316
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065982063577321472"
+          ]
+        },
+        "author_id": "2065335080265093121",
+        "conversation_id": "2065982085467427107",
+        "created_at": "2026-06-14T02:18:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T03:18:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065982085467427107"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oSBQ4HPpyU",
+              "end": 31,
+              "expanded_url": "https://x.com/MaoYe119/status/2065982085467427107/photo/1",
+              "media_key": "3_2065982063577321472",
+              "start": 8,
+              "url": "https://t.co/oSBQ4HPpyU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065982085467427107",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "摩西摩西... https://t.co/oSBQ4HPpyU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-12T07:29:46.000Z",
+        "description": "我叫小冶，第二人格",
+        "id": "2065335080265093121",
+        "name": "猫冶.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065336327797866496/v59O1zZz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 18,
+          "like_count": 27,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 11
+        },
+        "username": "MaoYe119",
+        "verified": false
+      }
+    ]
+  }
+}
