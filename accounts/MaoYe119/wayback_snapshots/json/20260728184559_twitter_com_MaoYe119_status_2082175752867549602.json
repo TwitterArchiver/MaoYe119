@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2065335080265093121",
+    "conversation_id": "2081961787751362615",
+    "created_at": "2026-07-28T18:45:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T19:45:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082175752867549602"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1907414826101669888",
+          "start": 0,
+          "username": "JamFarewellSong"
+        },
+        {
+          "end": 27,
+          "id": "1958564025727664128",
+          "start": 17,
+          "username": "SNS142148"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082175752867549602",
+    "in_reply_to_user_id": "1907414826101669888",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082161650799620602",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JamFarewellSong @SNS142148 来了！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2065335080265093121",
+        "conversation_id": "2081961787751362615",
+        "created_at": "2026-07-28T18:45:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T19:45:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082175752867549602"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1907414826101669888",
+              "start": 0,
+              "username": "JamFarewellSong"
+            },
+            {
+              "end": 27,
+              "id": "1958564025727664128",
+              "start": 17,
+              "username": "SNS142148"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082175752867549602",
+        "in_reply_to_user_id": "1907414826101669888",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082161650799620602",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JamFarewellSong @SNS142148 来了！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2081961787751362615",
+        "created_at": "2026-07-28T17:49:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T18:49:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082161650799620602"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2065335080265093121",
+              "start": 0,
+              "username": "MaoYe119"
+            },
+            {
+              "end": 20,
+              "id": "1958564025727664128",
+              "start": 10,
+              "username": "SNS142148"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082161650799620602",
+        "in_reply_to_user_id": "2065335080265093121",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081961787751362615",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MaoYe119 @SNS142148 召唤～"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-12T07:29:46.000Z",
+        "description": "大号山本殺し@Koroshiiiiiii（已亖）\n小杀，第二人格\n需要精神活性物质请私信！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "Koroshiiiiiii"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/agFB28vmdi"
+              }
+            ]
+          }
+        },
+        "id": "2065335080265093121",
+        "location": "✟升天✟",
+        "name": "猫冶.",
+        "pinned_tweet_id": "2081961787751362615",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065336327797866496/v59O1zZz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 86,
+          "like_count": 457,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 129
+        },
+        "url": "https://t.co/agFB28vmdi",
+        "username": "MaoYe119",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX（断糖中）&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od&自伤新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 496,
+          "following_count": 1619,
+          "like_count": 6558,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 1506
+        },
+        "url": "",
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-21T16:17:14.000Z",
+        "description": "可以叫我橙子喔！可互fo/偏执狂/INFP/OD💊/重度XP享受者/性别酷儿🏳️‍🌈/药理学习ins…/重度焦虑/双相/ADHD/日本語を学んでいます\n提问箱：https://t.co/VRLP0B0UmF\n不鼓励进行任何滥用行为！只做日常分享\n如果让你感到不适请私信我删除相关内容HRT：2023.5.31",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sns142148",
+                "end": 103,
+                "expanded_url": "https://ngl.link/sns142148",
+                "start": 80,
+                "url": "https://t.co/VRLP0B0UmF"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LOVEsnsoverdose",
+                "end": 23,
+                "expanded_url": "https://t.me/LOVEsnsoverdose",
+                "start": 0,
+                "url": "https://t.co/XfQ0VJ1q30"
+              }
+            ]
+          }
+        },
+        "id": "1958564025727664128",
+        "location": "歌舞伎町",
+        "name": "賢妻良母橙味糖Pro",
+        "pinned_tweet_id": "2058670486503240005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958564147328901120/OGultXoy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 116,
+          "like_count": 842,
+          "listed_count": 0,
+          "media_count": 111,
+          "tweet_count": 953
+        },
+        "url": "https://t.co/XfQ0VJ1q30",
+        "username": "SNS142148",
+        "verified": false
+      }
+    ]
+  }
+}

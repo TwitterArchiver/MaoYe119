@@ -1,0 +1,331 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2065335080265093121",
+    "conversation_id": "2082458672979222971",
+    "created_at": "2026-07-29T18:55:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T19:55:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082540652810928224"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1830934925769613334",
+          "start": 0,
+          "username": "Jinggebiezhuaw"
+        },
+        {
+          "end": 31,
+          "id": "1993150970705199108",
+          "start": 16,
+          "username": "Nana_naiiiiiii"
+        },
+        {
+          "end": 48,
+          "id": "2035020041058754561",
+          "start": 32,
+          "username": "Hornyselfsucker"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082540652810928224",
+    "in_reply_to_user_id": "1830934925769613334",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082497343543545910",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jinggebiezhuaw @Nana_naiiiiiii @Hornyselfsucker 原来那根水晶几把是她的..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2065335080265093121",
+        "conversation_id": "2082458672979222971",
+        "created_at": "2026-07-29T18:55:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T19:55:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082540652810928224"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1830934925769613334",
+              "start": 0,
+              "username": "Jinggebiezhuaw"
+            },
+            {
+              "end": 31,
+              "id": "1993150970705199108",
+              "start": 16,
+              "username": "Nana_naiiiiiii"
+            },
+            {
+              "end": 48,
+              "id": "2035020041058754561",
+              "start": 32,
+              "username": "Hornyselfsucker"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082540652810928224",
+        "in_reply_to_user_id": "1830934925769613334",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082497343543545910",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jinggebiezhuaw @Nana_naiiiiiii @Hornyselfsucker 原来那根水晶几把是她的..."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1830934925769613334",
+        "conversation_id": "2082458672979222971",
+        "created_at": "2026-07-29T16:03:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T17:03:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082497343543545910"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1993150970705199108",
+              "start": 0,
+              "username": "Nana_naiiiiiii"
+            },
+            {
+              "end": 32,
+              "id": "2035020041058754561",
+              "start": 16,
+              "username": "Hornyselfsucker"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082497343543545910",
+        "in_reply_to_user_id": "1993150970705199108",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 115,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082458672979222971",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nana_naiiiiiii @Hornyselfsucker 你的那根水晶假几把到底帮助了多少人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-12T07:29:46.000Z",
+        "description": "大号山本殺し@Koroshiiiiiii（已亖）\n小杀，第二人格\n需要精神活性物质请私信！\n个人trip报告👇🏻\nhttps://t.co/omHrWal0f0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "Koroshiiiiiii"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kdocs.cn/l/ct05v0Rvq4L9…",
+                "end": 80,
+                "expanded_url": "https://www.kdocs.cn/l/ct05v0Rvq4L9?f=301",
+                "start": 57,
+                "url": "https://t.co/omHrWal0f0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/agFB28vmdi"
+              }
+            ]
+          }
+        },
+        "id": "2065335080265093121",
+        "location": "✟升天✟",
+        "name": "猫冶.（小殺）",
+        "pinned_tweet_id": "2081961787751362615",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065336327797866496/v59O1zZz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 133,
+          "like_count": 600,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 147
+        },
+        "url": "https://t.co/agFB28vmdi",
+        "username": "MaoYe119",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-03T11:45:04.000Z",
+        "description": "我是奥克萨娜，女，黑长直性恋，精神分裂确诊，做导演的。非典型化学推，启灵物质狂信徒。RC售卖/化学物质使用咨询💊。魔界大门入口：@Oksana222RC\n闺蜜：@godspeedyou50、 @Nonentity_xxx17",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 64,
+                "username": "Oksana222RC"
+              },
+              {
+                "end": 94,
+                "start": 80,
+                "username": "godspeedyou50"
+              },
+              {
+                "end": 112,
+                "start": 96,
+                "username": "Nonentity_xxx17"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Oksana_132435",
+                "end": 23,
+                "expanded_url": "https://t.me/Oksana_132435",
+                "start": 0,
+                "url": "https://t.co/Mj09WQFbLQ"
+              }
+            ]
+          }
+        },
+        "id": "1830934925769613334",
+        "location": "Tokyo-to, Japan",
+        "name": "Oksana💊",
+        "pinned_tweet_id": "2064158937000358141",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836467833401937920/1OZ_D_Qp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3550,
+          "following_count": 271,
+          "like_count": 1795,
+          "listed_count": 5,
+          "media_count": 187,
+          "tweet_count": 828
+        },
+        "url": "https://t.co/Mj09WQFbLQ",
+        "username": "Jinggebiezhuaw",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-25T02:55:07.000Z",
+        "description": "对不起\n我爱你",
+        "id": "1993150970705199108",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "naiiiiiiiiiiiiiii",
+        "pinned_tweet_id": "1996945640593789149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151610718240768/zNZFleGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1757,
+          "following_count": 332,
+          "like_count": 24935,
+          "listed_count": 2,
+          "media_count": 165,
+          "tweet_count": 1890
+        },
+        "url": "",
+        "username": "Nana_naiiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-20T16:02:58.000Z",
+        "description": "逼好苦，逼好痒，逼逼要尿了\n不约。谢谢鹅\n🉑加微",
+        "id": "2035020041058754561",
+        "location": "青岛",
+        "name": "坏男人给我夹出血精🩸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080811613670739968/qYMDmI53_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 1480,
+          "like_count": 9431,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 103
+        },
+        "url": "",
+        "username": "Hornyselfsucker",
+        "verified": false
+      }
+    ]
+  }
+}

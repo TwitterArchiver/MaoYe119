@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2065335080265093121",
+    "conversation_id": "2087093651134730400",
+    "created_at": "2026-08-11T08:27:57.000Z",
+    "display_text_range": [
+      0,
+      5
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T09:27:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087093651134730400"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lengcuicui119/…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/lengcuicui119/status/2087080365672509806",
+          "start": 6,
+          "url": "https://t.co/Us33bL0FaA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087093651134730400",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087080365672509806",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "私信她喵～ https://t.co/Us33bL0FaA"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2065335080265093121",
+        "conversation_id": "2087093651134730400",
+        "created_at": "2026-08-11T08:27:57.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T09:27:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087093651134730400"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lengcuicui119/…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/lengcuicui119/status/2087080365672509806",
+              "start": 6,
+              "url": "https://t.co/Us33bL0FaA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087093651134730400",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087080365672509806",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "私信她喵～ https://t.co/Us33bL0FaA"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1455784742922555395",
+        "conversation_id": "2087080365672509806",
+        "created_at": "2026-08-11T07:35:09.000Z",
+        "display_text_range": [
+          0,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T08:35:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087080365672509806"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2087080365672509806",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "闲暇之余，会出一些自用闲置物质！有需要可以私信～🥺🥺"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-12T07:29:46.000Z",
+        "description": "大号山本殺し@lengcuicui119\n小杀，第二人格\n神秘物质请私信！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "lengcuicui119"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/agFB28uOnK"
+              }
+            ]
+          }
+        },
+        "id": "2065335080265093121",
+        "is_identity_verified": false,
+        "location": "✟升天✟",
+        "most_recent_tweet_id": "2087093651134730400",
+        "name": "猫冶.（小殺）",
+        "pinned_tweet_id": "2081961787751362615",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2065335080265093121/1781249716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065336327797866496/v59O1zZz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 124,
+          "like_count": 617,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 146
+        },
+        "url": "https://t.co/agFB28uOnK",
+        "username": "MaoYe119",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-11-03T06:32:05.000Z",
+        "description": "🚪77（防扰）\n出自用神秘物质/需要请私信\n可以叫小杀（🦋同名只发drug）\n不🩸🔪日本語🇯🇵简繁中🇨🇳Eng🇬🇧药理学习中💊\n关于个人trip报告👇🏻\nhttps://t.co/QK5ThxCX3p",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "kdocs.cn/l/cfQa1JFxmwQz…",
+                "end": 100,
+                "expanded_url": "https://www.kdocs.cn/l/cfQa1JFxmwQz?f=301",
+                "start": 77,
+                "url": "https://t.co/QK5ThxCX3p"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/5KlGfq5U0O"
+              }
+            ]
+          }
+        },
+        "id": "1455784742922555395",
+        "is_identity_verified": false,
+        "location": "✟升天✟",
+        "most_recent_tweet_id": "2087083293212815531",
+        "name": "山本殺し",
+        "pinned_tweet_id": "2087080365672509806",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1455784742922555395/1765798072",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008231012783067136/2V8VLIlL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 801,
+          "following_count": 392,
+          "like_count": 2897,
+          "listed_count": 1,
+          "media_count": 160,
+          "tweet_count": 2115
+        },
+        "url": "https://t.co/5KlGfq5U0O",
+        "username": "lengcuicui119",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

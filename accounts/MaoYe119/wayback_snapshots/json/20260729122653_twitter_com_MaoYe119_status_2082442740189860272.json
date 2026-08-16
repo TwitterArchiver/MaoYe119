@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2065335080265093121",
+    "conversation_id": "2082442740189860272",
+    "created_at": "2026-07-29T12:26:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T13:26:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082442740189860272"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2065335080265093121",
+          "start": 3,
+          "username": "MaoYe119"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082442740189860272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082404089691021544",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MaoYe119: 请做好心理准备，容易触发精神疾病...适度..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2065335080265093121",
+        "conversation_id": "2082442740189860272",
+        "created_at": "2026-07-29T12:26:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T13:26:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082442740189860272"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2065335080265093121",
+              "start": 3,
+              "username": "MaoYe119"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082442740189860272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082404089691021544",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MaoYe119: 请做好心理准备，容易触发精神疾病...适度..."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2065335080265093121",
+        "conversation_id": "2082404089691021544",
+        "created_at": "2026-07-29T09:53:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T10:53:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082404089691021544"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/maoye119/statu…",
+              "end": 48,
+              "expanded_url": "https://twitter.com/maoye119/status/2082399075773862141",
+              "start": 25,
+              "url": "https://t.co/g3UPPtXW0V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082404089691021544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 79,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082399075773862141",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "请做好心理准备，容易触发精神疾病...适度... https://t.co/g3UPPtXW0V"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-12T07:29:46.000Z",
+        "description": "大号山本殺し@Koroshiiiiiii（已亖）\n小杀，第二人格\n需要精神活性物质请私信！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "Koroshiiiiiii"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/agFB28vmdi"
+              }
+            ]
+          }
+        },
+        "id": "2065335080265093121",
+        "location": "✟升天✟",
+        "name": "猫冶.（小殺）",
+        "pinned_tweet_id": "2081961787751362615",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065336327797866496/v59O1zZz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 125,
+          "like_count": 566,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 144
+        },
+        "url": "https://t.co/agFB28vmdi",
+        "username": "MaoYe119",
+        "verified": false
+      }
+    ]
+  }
+}

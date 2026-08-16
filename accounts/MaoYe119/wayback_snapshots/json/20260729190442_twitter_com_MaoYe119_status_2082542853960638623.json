@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2065335080265093121",
+    "conversation_id": "2082542853960638623",
+    "created_at": "2026-07-29T19:04:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T20:04:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082542853960638623"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2082434496968966144",
+          "start": 3,
+          "username": "0nemoremin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082542853960638623",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082440995145466099",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @0nemoremin: 我是00 我被邪恶msk关小黑屋gban了😭转生寻回互关中😭，，，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2065335080265093121",
+        "conversation_id": "2082542853960638623",
+        "created_at": "2026-07-29T19:04:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T20:04:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082542853960638623"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2082434496968966144",
+              "start": 3,
+              "username": "0nemoremin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082542853960638623",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082440995145466099",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @0nemoremin: 我是00 我被邪恶msk关小黑屋gban了😭转生寻回互关中😭，，，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2082434496968966144",
+        "conversation_id": "2082440995145466099",
+        "created_at": "2026-07-29T12:19:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T13:19:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082440995145466099"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082440995145466099",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 689,
+          "like_count": 6,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "我是00 我被邪恶msk关小黑屋gban了😭转生寻回互关中😭，，，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-12T07:29:46.000Z",
+        "description": "大号山本殺し@Koroshiiiiiii（已亖）\n小杀，第二人格\n需要精神活性物质请私信！\n个人trip报告👇🏻\nhttps://t.co/omHrWal0f0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "Koroshiiiiiii"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kdocs.cn/l/ct05v0Rvq4L9…",
+                "end": 80,
+                "expanded_url": "https://www.kdocs.cn/l/ct05v0Rvq4L9?f=301",
+                "start": 57,
+                "url": "https://t.co/omHrWal0f0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/agFB28vmdi"
+              }
+            ]
+          }
+        },
+        "id": "2065335080265093121",
+        "location": "✟升天✟",
+        "name": "猫冶.（小殺）",
+        "pinned_tweet_id": "2081961787751362615",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065336327797866496/v59O1zZz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 135,
+          "like_count": 606,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 148
+        },
+        "url": "https://t.co/agFB28vmdi",
+        "username": "MaoYe119",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-29T11:56:25.000Z",
+        "description": "尸体在说话\n前世@0nemoresec\n匿名信 https://t.co/aDqZ0rkV0S",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "0nemoresec"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/0nemoresec",
+                "end": 47,
+                "expanded_url": "https://ngl.link/0nemoresec",
+                "start": 24,
+                "url": "https://t.co/aDqZ0rkV0S"
+              }
+            ]
+          }
+        },
+        "id": "2082434496968966144",
+        "name": "000",
+        "pinned_tweet_id": "2082440995145466099",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082436080654290944/3Xt839UE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 25,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 3
+        },
+        "url": "",
+        "username": "0nemoremin",
+        "verified": false
+      }
+    ]
+  }
+}
